@@ -1,7 +1,5 @@
 ### 记录一下aused by the web cache poisoning denial of service(cpdos)
 
-------
-
 ### 0x00 回顾一下
 
 没有实战挖掘过Web缓存投毒，今天遇到了，记录一下，关于Web缓存中毒的原理可以参考portswigger社区里的这篇文章：
