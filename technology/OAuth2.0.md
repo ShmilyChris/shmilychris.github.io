@@ -34,7 +34,9 @@
 
   ![image-20220520175941184](https://raw.staticdn.net/ShmilyChris/wiki/main/image-20220520175941184.png)
 
-- ###### 密码式（password）![image-20220520180010086](https://raw.staticdn.net/ShmilyChris/wiki/main/image-20220520180010086.png)
+- ###### 密码式（password）
+
+  ![image-20220520180010086](https://raw.staticdn.net/ShmilyChris/wiki/main/image-20220520180010086.png)
 
 - ###### 客户端凭证（client credentials）
 
