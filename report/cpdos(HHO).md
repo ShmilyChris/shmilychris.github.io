@@ -49,5 +49,4 @@ HHO的攻击原理构造会超过header大小的限制，让web服务器拦截�
 参考：
 
 美国国防部cp-dos：https://hackerone.com/reports/1183263
-
 嘶吼Cache投毒DoS:https://www.4hou.com/posts/R8WL
